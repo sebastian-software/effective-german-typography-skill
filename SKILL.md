@@ -271,3 +271,7 @@ Use Unicode characters directly.
 ### JSX
 
 Use Unicode in visible text content. Do not modify string literals in code or attributes.
+
+## Related References
+
+- [Print Typography](references/PRINT.md) — Page layout, hyphenation, and PDF generation
