@@ -57,6 +57,10 @@ The skill activates automatically when you:
 - "Review this text for typography issues"
 - "Write a German product description" (skill applies rules automatically)
 
+## Related Skills
+
+For print/PDF output, combine with [effective-print-design](https://github.com/sebastian-software/effective-print-design) which provides CSS print stylesheets, page layout, and typography for paged media. German-specific print rules (hyphenation, DIN 5008 margins) are included in this skill's [references/PRINT.md](references/PRINT.md).
+
 ## Scope
 
 This skill focuses on **typography rules**, not:
